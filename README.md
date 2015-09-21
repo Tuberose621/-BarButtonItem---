@@ -73,6 +73,8 @@ self.navigationItem.leftBarButtonItem = [[UIBarButtonItem alloc] initWithCustomV
 ```
 
 - 从上面也可以看出来：这样写的话，代码量就多了，所以要进行代码的封装
+
+
 ----------------------------------------------------------------
 
 
@@ -271,6 +273,7 @@ self.navigationItem.leftBarButtonItem = [[UIBarButtonItem alloc] initWithCustomV
 - 稍后的时间，我会尽量将一些封装的东西都整理出来，敬请关注！
 
 - 下面的内容，感兴趣的朋友可以研究一下！
+
 --------------------------------------------------------------
 ####扩充说明--类别
 - **网上copy过来的，有助于大家理解为什么选用类别优于新建一个类**
